@@ -21,4 +21,5 @@ Button 3: "Party" mode:
 Button 4: Fixed white light
 
 Below is a short video that shows the use of the buttons. 
+
 https://user-images.githubusercontent.com/24407633/120892074-af6d1180-c60c-11eb-8a37-cc6da259942d.mp4
